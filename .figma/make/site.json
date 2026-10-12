@@ -1,0 +1,10 @@
+{
+  "description": "Engage in a multiplayer quiz game that assesses players' backgrounds through interactive questions, leveling the playing field for diverse experiences.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
